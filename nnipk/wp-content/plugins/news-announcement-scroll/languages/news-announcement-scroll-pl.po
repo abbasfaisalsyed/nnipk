@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: news announcement scroll\n"
+"POT-Creation-Date: 2015-10-04 22:26+0800\n"
+"PO-Revision-Date: 2015-10-04 22:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.storeapps.org <www.storeapps.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../news-announcement-scroll.php:139 ../pages/content-management-add.php:157
+#: ../pages/content-management-edit.php:188
+#: ../pages/content-management-show.php:141 ../pages/content-setting.php:189
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../news-announcement-scroll.php:140 ../pages/content-management-add.php:158
+#: ../pages/content-management-edit.php:189
+#: ../pages/content-management-show.php:142 ../pages/content-setting.php:190
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../news-announcement-scroll.php:147 ../news-announcement-scroll.php:148
+#: ../news-announcement-scroll.php:153 ../news-announcement-scroll.php:154
+#: ../news-announcement-scroll.php:160 ../news-announcement-scroll.php:161
+#: ../pages/content-management-add.php:91
+#: ../pages/content-management-edit.php:114
+#: ../pages/content-management-show.php:53 ../pages/content-setting.php:6
+msgid "News announcement scroll"
+msgstr "Aktualności Ogłoszenie przewijania"
+
+#: ../pages/content-management-add.php:27
+#: ../pages/content-management-add.php:95
+#: ../pages/content-management-edit.php:56
+#: ../pages/content-management-edit.php:118
+msgid "Enter announcement text"
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../pages/content-management-add.php:34
+#: ../pages/content-management-add.php:99
+#: ../pages/content-management-edit.php:63
+#: ../pages/content-management-edit.php:122
+msgid "Enter display order"
+msgstr "Proszę wprowadzić swoją kolejność wyświetlania."
+
+#: ../pages/content-management-add.php:55
+msgid "Details was successfully added."
+msgstr "Szczegóły został pomyślnie dodana."
+
+#: ../pages/content-management-add.php:82
+#: ../pages/content-management-edit.php:105
+msgid "Click here"
+msgstr "Kliknij tutaj"
+
+#: ../pages/content-management-add.php:82
+#: ../pages/content-management-edit.php:105
+msgid "to view the details"
+msgstr "aby zobaczyć szczegóły"
+
+#: ../pages/content-management-add.php:93
+msgid "Add news details"
+msgstr "Aktualności"
+
+#: ../pages/content-management-add.php:97
+#: ../pages/content-management-edit.php:120
+msgid "Enter your news and announcement text"
+msgstr "Proszę wprowadzić tekst/ogłoszenia."
+
+#: ../pages/content-management-add.php:101
+#: ../pages/content-management-edit.php:124
+msgid ""
+"What order should the news be played in. should it come 1st, 2nd, 3rd, etc."
+msgstr ""
+"Co zamówić obraz powinien być odtworzony w. powinno to się 1, 2, 3, itd."
+
+#: ../pages/content-management-add.php:103
+#: ../pages/content-management-edit.php:126
+msgid "Display status"
+msgstr "Stan wyświetlacza"
+
+#: ../pages/content-management-add.php:108
+#: ../pages/content-management-edit.php:131
+msgid "Do you want to show this news in front end?"
+msgstr "Chcesz pokazać informacje na przód?"
+
+#: ../pages/content-management-add.php:110
+#: ../pages/content-management-edit.php:133
+msgid "Select news group"
+msgstr "Proszę wybrać dostępną grupę do wiadomości."
+
+#: ../pages/content-management-add.php:136
+#: ../pages/content-management-edit.php:167
+msgid "This is to group the news. Select your news group."
+msgstr "To jest do grupy wiadomości. Wybierz grupę nowości."
+
+#: ../pages/content-management-add.php:138
+#: ../pages/content-management-edit.php:169
+#: ../pages/content-management-show.php:72
+#: ../pages/content-management-show.php:83
+msgid "Publish"
+msgstr "Opublikuj"
+
+#: ../pages/content-management-add.php:140
+#: ../pages/content-management-edit.php:171
+msgid "Please enter the news publish date in this format YYYY-MM-DD."
+msgstr "Proszę podać datę publikowania wiadomości w tym formacie RRRR-MM-DD."
+
+#: ../pages/content-management-add.php:142
+#: ../pages/content-management-edit.php:173
+msgid "Expiration date"
+msgstr "Data wygaśnięcia"
+
+#: ../pages/content-management-add.php:144
+msgid ""
+"Please enter the expiration date in this format YYYY-MM-DD <br /> "
+"9999-12-30 : Is equal to no expire."
+msgstr ""
+"Proszę podać datę ważności w tym formacie YYYY-MM-DD <br /> 9999-12-31: Czy "
+"równa nie wygaśnie."
+
+#: ../pages/content-management-add.php:149
+msgid "Insert Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../pages/content-management-add.php:150
+#: ../pages/content-management-edit.php:181 ../pages/content-setting.php:182
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/content-management-add.php:151
+#: ../pages/content-management-edit.php:182
+#: ../pages/content-management-show.php:130 ../pages/content-setting.php:183
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/content-management-edit.php:18
+#: ../pages/content-management-show.php:23
+msgid "Oops, selected details doesnt exist."
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/content-management-edit.php:88
+msgid "Details was successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-management-edit.php:116
+msgid "Update news details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-management-edit.php:175
+msgid "Please enter the expiration date in this format YYYY-MM-DD"
+msgstr "Proszę podać datę ważności w tym formacie YYYY-MM-DD"
+
+#: ../pages/content-management-edit.php:180
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/content-management-show.php:41
+msgid "Selected record was successfully deleted."
+msgstr "Wybrany rekord został pomyślnie usunięty."
+
+#: ../pages/content-management-show.php:54
+#: ../pages/content-management-show.php:128
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/content-management-show.php:68
+#: ../pages/content-management-show.php:79
+msgid "News"
+msgstr "Aktualności"
+
+#: ../pages/content-management-show.php:69
+#: ../pages/content-management-show.php:80
+msgid "Order"
+msgstr "Kolejność"
+
+#: ../pages/content-management-show.php:70
+msgid "Display"
+msgstr "Wyświetlacz"
+
+#: ../pages/content-management-show.php:71
+#: ../pages/content-management-show.php:82
+msgid "Group"
+msgstr "Miasto"
+
+#: ../pages/content-management-show.php:73
+#: ../pages/content-management-show.php:84
+msgid "Expiration"
+msgstr "Wygasa"
+
+#: ../pages/content-management-show.php:81
+msgid "Status"
+msgstr "Status"
+
+#: ../pages/content-management-show.php:101
+msgid "Edit"
+msgstr "Edytuj"
+
+#: ../pages/content-management-show.php:103
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../pages/content-management-show.php:118
+msgid "No records available."
+msgstr "Rejestry nie są dostępne."
+
+#: ../pages/content-management-show.php:129 ../pages/content-setting.php:7
+msgid "Widget setting"
+msgstr "Widżet ustawienie"
+
+#: ../pages/content-management-show.php:134
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../pages/content-management-show.php:136
+msgid "Drag and drop the widget."
+msgstr "Przeciągnij i upuść widżet."
+
+#: ../pages/content-management-show.php:137
+msgid "Add the plugin in the posts or pages using short code."
+msgstr "Dodaj wtyczki na stanowiskach lub stron za pomocą krótkiego kodu."
+
+#: ../pages/content-management-show.php:138
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../pages/content-setting.php:61
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../pages/content-setting.php:72
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../pages/content-setting.php:74
+msgid "This title is only for widget."
+msgstr "Wprowadź widget tytuł, tylko dla widgetu."
+
+#: ../pages/content-setting.php:76 ../pages/content-setting.php:93
+msgid "Text alignment"
+msgstr "Wyrównanie tekstu"
+
+#: ../pages/content-setting.php:83
+msgid "This alignment is for horizontal direction."
+msgstr "Wyrównanie to jest kierunku poziomym."
+
+#: ../pages/content-setting.php:85
+msgid "Width"
+msgstr "Szerokość"
+
+#: ../pages/content-setting.php:87
+msgid "Enter widget width, only number"
+msgstr "Wprowadź szerokość pokaz slajdów, tylko numer."
+
+#: ../pages/content-setting.php:89
+msgid "Font"
+msgstr "Czcionka"
+
+#: ../pages/content-setting.php:91
+msgid "Enter news fornt name, Example: verdana, arial, sans-serif"
+msgstr "Wpisz wiadomości nazwę fornt, Przykład: Verdana, Arial, sans-serif"
+
+#: ../pages/content-setting.php:99
+msgid "This alignment is for vertical direction."
+msgstr "To ustawienie jest dla kierunku pionowym."
+
+#: ../pages/content-setting.php:101
+msgid "Height"
+msgstr "Wysokość"
+
+#: ../pages/content-setting.php:103
+msgid "Enter widget height, only number"
+msgstr "Wprowadź wysokość widget, tylko numer."
+
+#: ../pages/content-setting.php:105
+msgid "Announcement display order"
+msgstr "Proszę wprowadzić swoją kolejność wyświetlania."
+
+#: ../pages/content-setting.php:110
+msgid ""
+"Display order: It means display as per order option. Random order: It means "
+"random order."
+msgstr ""
+"Kolejność wyświetlania: Oznacza to wyświetlacz, jak na możliwości "
+"zamówienia. Kolejność losowa: Oznacza to, losowej kolejności."
+
+#: ../pages/content-setting.php:113
+msgid "Font size"
+msgstr "Rozmiar czcionki"
+
+#: ../pages/content-setting.php:115
+msgid "News font size, Example: 13px."
+msgstr "Aktualności rozmiar czcionki, Przykład: 13px."
+
+#: ../pages/content-setting.php:117
+msgid "Font color"
+msgstr "Kolor czcionki"
+
+#: ../pages/content-setting.php:119
+msgid "News font color, Example: #000000."
+msgstr "Aktualności kolor czcionki, Przykład: # 000000."
+
+#: ../pages/content-setting.php:121
+msgid "Slide direction"
+msgstr "Kierunek przesunięcia"
+
+#: ../pages/content-setting.php:126
+msgid "Select your slide direction"
+msgstr "Wybierz kierunek przewijania."
+
+#: ../pages/content-setting.php:128
+msgid "Font weight"
+msgstr "Grubość czcionki."
+
+#: ../pages/content-setting.php:133
+msgid "Select font weight."
+msgstr "Wybierz wagę czcionki."
+
+#: ../pages/content-setting.php:135
+msgid "No announcement text"
+msgstr "Brak tekstu ogłoszenie"
+
+#: ../pages/content-setting.php:137
+msgid "Text to show if no news/announcement available in the database."
+msgstr ""
+"Tekst, aby zobaczyć, czy nie ma wiadomości / Ogłoszenie dostępne w bazie "
+"danych."
+
+#: ../pages/content-setting.php:139
+msgid "Slide timeout"
+msgstr "Timeout slajdów"
+
+#: ../pages/content-setting.php:141
+msgid "1000 = 1 second."
+msgstr "1000 = 1 sekunda."
+
+#: ../pages/content-setting.php:143
+msgid "News Group"
+msgstr "Aktualności Grupa"
+
+#: ../pages/content-setting.php:177
+msgid ""
+"Select your news type to display (This option available in news management "
+"page)."
+msgstr ""
+"Wybierz typ wiadomości do wyświetlania (Ta opcja dostępna na stronie "
+"zarządzania news)."
+
+#: ../pages/content-setting.php:181
+msgid "Submit"
+msgstr "Wyślij"

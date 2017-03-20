@@ -1,0 +1,32 @@
+div.wrap {clear:both}
+div.wrap h2.t4bwraphead {margin-top: 20px;font-weight: 700;font-size: 28px}
+.t4b_ticker_wrap {background:#fff;margin:20px auto;padding: 20px 20px 0;border:1px solid #ddd}
+.t4b_ticker_wrap .t4bnt_opts label {font-size:16px;font-weight:700;width:25%;float:left}
+.t4b_ticker_wrap .t4bnt_opts input[type="text"], .t4bnt_opts select {width: 20%;font-size: 16px;background: #fafafa}
+.t4b_ticker_wrap .t4bnt_opts small{margin-left: 10px;color:#999}
+.t4b_ticker_wrap .t4bnt_opts p {font-size: 16px;margin: 0 0 15px}
+.t4b_ticker_wrap p.feature_notice {background-color: #fafafa;padding: 10px 10px 10px 0;font-size: 14px;line-height: 24px;border-left: 4px solid #7ad03a;-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);box-shadow: 1px 1px 0 0 rgba(0,0,0,.2);width:485px}
+.t4bnt_input {padding:20px 10px;border-bottom:1px solid #ddd;border-top:1px solid #fff}
+.t4bnt_input input[type="text"]:focus{background:#fff}
+.t4bnt_title h3 {cursor: pointer;font-size: 24px;text-transform: capitalize;margin: 0;font-weight: bold;float: left;padding: 20px 10px 0}
+.t4bnt_wrap {width:740px}
+.t4bnt_section {border:1px solid #ddd;border-bottom:0;background:#f9f9f9}
+.t4bnt_title {border-bottom:1px solid #ddd;background:#eee}
+.t4bnt_title h3 img.inactive {margin:-8px 10px 0 2px;width:32px;height:32px;background:url('../images/pointer.png') no-repeat 0 0;float:left;-moz-border-radius:6px;border:1px solid #ccc}
+.t4bnt_title h3 img.active {margin:-8px 10px 0 2px;width:32px;height:32px;background:url('../images/pointer.png') no-repeat  0 -32px;float:left;-moz-border-radius:6px;-webkit-border-radius:6px;border:1px solid #ccc}
+.t4bnt_title h3:hover img {border:1px solid #999}
+.t4bnt_title span.submit {display:block;float:right;margin:0;padding:0;width:15%;padding:14px 0}
+.clearfix {clear:both}
+.tags-list {padding-right: 250px;display: none}
+.t4bnt_label {width: 40px;display: inline-block;float: left;font-size: 16px;font-weight: 600}
+input.t4bnt_custom {width: 25% !important;float: left;margin-right: 20px}
+.small_button {padding: 6px 10px;margin-left:5px;background-color: #F1F1F1;background-image: -ms-linear-gradient(top,#F9F9F9,#ECECEC);background-image: -moz-linear-gradient(top,#F9F9F9,#ECECEC);background-image: -o-linear-gradient(top,#F9F9F9,#ECECEC);background-image: -webkit-gradient(linear,left top,left bottom,from(#F9F9F9),to(#ECECEC));background-image: -webkit-linear-gradient(top,#F9F9F9,#ECECEC);background-image: linear-gradient(top,#F9F9F9,#ECECEC);border: 1px solid #CCC;cursor:pointer;color: #777;border-radius: 2px}
+#customList li {margin: 5px 0;overflow: hidden;list-style:none}
+#customList .widget-head {background-color: #55606e;width: 80%;padding: 7px;cursor: move;font-weight: bold;color: #FFF}
+#customList {padding-top:10px}
+#customList li {margin: 10px 0 0}
+#customList .widget-head {position: relative}
+#customList .widget-head a {color:#FFF;text-decoration:none}
+#customList .widget-head a:hover {text-decoration:underline}
+#customList .widget-head a.del-custom-text {position: absolute;right: 5px;top:5px;background: url('../images/delete.png') no-repeat top;width: 20px;height: 20px;cursor: pointer}
+#customList li.removered .widget-head {background: #ff0000}

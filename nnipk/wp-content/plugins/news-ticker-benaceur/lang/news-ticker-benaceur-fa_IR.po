@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: news ticker benaceur v2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-10 21:47+0100\n"
+"Last-Translator: BENACEUR <mohamedcompte@hotmail.fr>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: fa\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:17
+msgid "News-Ticker-Benaceur"
+msgstr ""
+
+# @ default
+#: news-ticker-benaceur-panel-page.php:27
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:31
+msgid "Note: After activating the plugin Put the following line in the place (in template) where you bar to appear:"
+msgstr "نکته: پس از فعالسازی افزونه، برای نمایش افزونه در پوسته از کد زیر استفاده کنید:"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:33
+msgid "or put this short code (in post or page):"
+msgstr "یا کد کوتاه زیر را قرار دهید‌(برای صفحه و مطلب):"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:37 news-ticker-benaceur.php:16
+msgid "Settings"
+msgstr "تظیمات"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:50
+msgid "Enable plugin"
+msgstr "فعالسازی افزونه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:76
+msgid "Menu"
+msgstr "منو"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:76
+msgid "Submenu"
+msgstr "زیرمنو"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:80
+msgid "Enable News Ticker Benaceur on admin bar in frontend"
+msgstr "فعال کردن رویداد خبرها در نوار مدیریت"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:81
+msgid "Enable News Ticker Benaceur on admin bar in admin panel"
+msgstr "فعال کردن رویداد خبرها در پیشخوان مدیر"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:88
+msgid "Hide for visitors"
+msgstr "مخفی کردن برای تمام بازدیدکنندگان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:99
+msgid "Hide for all users"
+msgstr "مخفی کردن برای تمام کاربران"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:110
+msgid "Hide for this group(s) (You can select more than one group)"
+msgstr "مخفی کردن برای این گروه(ها) (شما می توانید بیشتر از یک گروه را انتخاب کنید)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:115
+msgid "Remove Selection"
+msgstr "حذف انتخاب"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:131
+msgid "Hide for this user id"
+msgstr "مخفی شدن برای این کاربر"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:134
+msgid "Enter here the user id"
+msgstr "آیدی کاربر را اینجا وارد کنید"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:135
+#: news-ticker-benaceur-panel-page.php:181
+msgid "Separate between id by commas, for example: 2,16,223"
+msgstr "برای جداسازی آیدی از کاما استفاده کنید؛ برای مثال: 1,50,3,552"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:139
+msgid "Hide for all except administrator"
+msgstr "مخفی کردن برای همه به جز مدیر"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:179
+#: news-ticker-benaceur-panel-page.php:687
+msgid "Display all cat"
+msgstr "نمایش تمام دسته بندی ها"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:216
+msgid "Disable Title"
+msgstr "غیرفعالسازی عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:238
+msgid "Numbre of posts"
+msgstr "تعداد ارسال ها"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:286
+msgid "Animation"
+msgstr "انیمیشن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:246
+msgid "Direction"
+msgstr "چینش متن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:251
+msgid "LTR"
+msgstr "از چپ به راست"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:252
+msgid "RTL"
+msgstr "از راست به چپ"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:275
+msgid "Click to reset properties plugin"
+msgstr "بازخوانی دوباره افزونه(ریست)"
+
+# @ news-ticker-benaceur
+#: includes/news-ticker-benaceur-styles-p-options.php:9
+#: includes/news-ticker-benaceur-styles-p-options.php:56
+#: news-ticker-benaceur-panel-page.php:322
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+# @ news-ticker-benaceur
+#: includes/news-ticker-benaceur-styles-p-options.php:18
+#: includes/news-ticker-benaceur-styles-p-options.php:65
+#: news-ticker-benaceur-panel-page.php:331
+msgid "Text color"
+msgstr "رنگ متن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:340
+msgid "Background color of title"
+msgstr "رنگ پس زمینه عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:358
+msgid "Border color"
+msgstr "رنگ حاشیه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:392
+msgid "border top"
+msgstr "حاشیه از بالا"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:400
+msgid "border bottom"
+msgstr "حاشیه پایین"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:408
+msgid "border right"
+msgstr "حاشیه راست"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:416
+msgid "border left"
+msgstr "حاشیه چپ"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:424
+msgid "border radius"
+msgstr "حاشیه گرد"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:432
+msgid "The level of transparency 1-0.1"
+msgstr "سطح شفافیت 1تا 0.1"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:440
+msgid "Width by adding: px or %"
+msgstr "عرض: به px یا %"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:472
+msgid "padding top"
+msgstr "پدینگ از بالا"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:480
+msgid "padding bottom"
+msgstr "پدینگ از پایین"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:488
+msgid "padding top (Title)"
+msgstr "پدینگ  از بالا (عنوان)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:496
+msgid "margin top"
+msgstr "مارجین از بالا"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:504
+msgid "margin bottom"
+msgstr "مارجین از پایین"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:510
+msgid "Font family"
+msgstr "نوع فونت"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:512
+msgid "Disable this font: DroidKufi_Ben "
+msgstr "غیرفعال کردن این فونت: DroidKufi_Ben "
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:522
+msgid "Font size"
+msgstr "اندازه فونت"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:527
+msgid "Normal"
+msgstr "معمولی"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:527
+msgid "Bold"
+msgstr "برجسته"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:530
+msgid "Font weight"
+msgstr "عرض فونت"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:535
+#: news-ticker-benaceur-panel-page.php:552
+msgid "no"
+msgstr "خیر"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:535
+#: news-ticker-benaceur-panel-page.php:552
+msgid "yes"
+msgstr "بله"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:538
+msgid "text shadow"
+msgstr "سابه متن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:547
+msgid "text shadow color"
+msgstr "رنگ سایه متن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:555
+msgid "box shadow"
+msgstr "سایه جعبه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:564
+msgid "box shadow color"
+msgstr "رنگ سایه جعبه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:572
+msgid "box shadow v"
+msgstr "حجم سایه جعبه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:608
+msgid "Click to reset style properties plugin"
+msgstr "بازنشانی تظیمات استایل افزونه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:686
+#: news-ticker-benaceur-panel-page.php:690
+#: news-ticker-benaceur-panel-page.php:785
+#: news-ticker-benaceur-panel-page.php:789
+msgid "Hide this list"
+msgstr "مخفی کردن این فهرست"
+
+# @ default
+#: news-ticker-benaceur.php:398 news-ticker-benaceur.php:400
+#: news-ticker-benaceur.php:404 news-ticker-benaceur.php:406
+msgid "News Ticker Benaceur"
+msgstr "رویداد خبرها"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:314
+msgid "Settings of style"
+msgstr "تنظیمات استایل"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:59
+msgid "Latest posts"
+msgstr "آخرین ارسال ها"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:65
+msgid "Latest comments"
+msgstr "آخرین نظرات"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:153
+msgid "category id (Latest posts)</br>post id (Latest comments)"
+msgstr "آیدی دسته بندی (آخرین ارسال ها)</br>آيدی مطلب(آخرین دیدگاه ها)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:155
+msgid "Leave blank to activate All"
+msgstr "برای فعال بودن همه خالی بگذارید"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:187
+msgid "Include cat id/post id"
+msgstr "شامل بودن آیدی دسته بندی/آیدی مطلب"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:193
+msgid "Exclude cat id/post id"
+msgstr "مستثنی کردن آیدی دسته بندی/آیدی مطلب"
+
+# @ news-ticker-benaceur
+#: style-anim/no-scrollntb-scroll_up.php:45 style-anim/no-scrollntb.php:45
+#: style-anim/scrollntb.php:23
+msgid "No comments"
+msgstr "بدون دیدگاه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:376
+msgid "Hover color"
+msgstr "رنگ هاور"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:448
+msgid "Height"
+msgstr "ارتفاع"
+
+# @ news-ticker-benaceur
+#: includes/notices-ntb.php:16
+msgid "Hide"
+msgstr "مخفی"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:582
+msgid "Standard theme"
+msgstr "پوسته استاندارد"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:586
+msgid "Styles options page"
+msgstr "سبک های صفحه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:257
+msgid "Number of letters of Title"
+msgstr "تعداد حروف عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:263
+msgid "Number of letters of Comments"
+msgstr "تعداد حروف نظرات"
+
+# @ news-ticker-benaceur
+#: includes/news-ticker-benaceur-styles-p-options.php:27
+#: includes/news-ticker-benaceur-styles-p-options.php:74
+msgid "Background color of the input boxes"
+msgstr "رنگ پس زمینه جعبه های ورودی"
+
+# @ news-ticker-benaceur
+#: includes/news-ticker-benaceur-styles-p-options.php:45
+#: includes/news-ticker-benaceur-styles-p-options.php:92
+msgid "Background on/off color"
+msgstr "رنگ "
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:580
+msgid "Orange Theme"
+msgstr "پوسته نارنجی"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:581
+msgid "Custom Theme"
+msgstr "پوسته دلخواه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:598
+msgid "Hide the plugin rating icon"
+msgstr "مخفی کردن آیکن امتیاز افزونه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:621
+msgid "Remove all settings and data of the plugin from database when the plugin is disabled"
+msgstr "حذف تمام تظیمات و اطلاعات این افزونه زمانیکه افزونه غیرفعال می شود"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:628
+msgid "Do not delete"
+msgstr "حذف نکنید"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:652
+msgid "Do not forget to rate the plugin"
+msgstr "امتیاز به افزونه را فراموش نکنید"
+
+# @ news-ticker-benaceur
+#: includes/news-ticker-benaceur-styles-p-options.php:36
+#: includes/news-ticker-benaceur-styles-p-options.php:83
+msgid "Background color settings saved message"
+msgstr "رنگ پس زمینه پیغام ذخیره شدن تنظیمات"
+
+# @ news-ticker-benaceur
+#: includes/notices-ntb.php:17
+msgid "After this update Click on ctl+F5 to purge the browser cache ( For those who have installed the previous version(s) only )"
+msgstr "بعد از این بروزرسانی برای پاکسازی کش مرورگر خود از کلیدهای ctl+F5 ترکیبی استفاده کنید. (برای کسانی که نسخه های قبلی نصب کرده اند)"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:20 includes/option-anim.php:41
+#: includes/option-anim.php:130 includes/option-anim.php:206
+msgid "Speed"
+msgstr "سرعت"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:5 includes/option-anim.php:26
+#: includes/option-anim.php:47 includes/option-anim.php:124
+#: includes/option-anim.php:171
+msgid "TimeOut"
+msgstr "وقفه"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:292
+msgid "Fade"
+msgstr "محو شدن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:293
+msgid "Slide"
+msgstr "اسلاید"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:294
+msgid "Slide-Up-Down"
+msgstr "اسلاید-بالا-پایین"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:290
+msgid "FadeIn"
+msgstr "FadeIn"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:295
+msgid "Scroll-H"
+msgstr "Scroll-H"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:300
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:13 news-ticker-benaceur-panel-page.php:723
+msgid "Settings Typing"
+msgstr "تنظیمات شیوه نوشتاری"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:34 news-ticker-benaceur-panel-page.php:735
+msgid "Settings Fade"
+msgstr "تنظیمات شیوه محو شدن"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:55 news-ticker-benaceur-panel-page.php:747
+msgid "Settings Slide"
+msgstr "تنظیمات شیوه اسلاید"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:66 includes/option-anim.php:147
+msgid "Enable jquery-min (Disable if you have)"
+msgstr "فعالسازی jquery-min"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:73 includes/option-anim.php:154
+msgid "Disable jquery-min"
+msgstr "غیرفعالسازی jquery-min"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:80 includes/option-anim.php:160
+msgid "Enable img next/prev"
+msgstr "فعالسازی بعدی/قبلی تصویر"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:86 includes/option-anim.php:167
+msgid "Disable img next/prev"
+msgstr "غیرفعالسازی بعدی/قبلی تصویر"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:93
+msgid "Up"
+msgstr "بالا"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:99
+msgid "Down"
+msgstr "پایین"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:104 includes/option-anim.php:177
+msgid "Pause on hover"
+msgstr "وقفه در هاور"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:138 news-ticker-benaceur-panel-page.php:699
+msgid "Settings Slide-Up-Down"
+msgstr "تنظیمات اسلاید-بالا-پایین"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:199 news-ticker-benaceur-panel-page.php:711
+msgid "Settings FadeIn"
+msgstr "تنظیمات FadeIn"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:214 news-ticker-benaceur-panel-page.php:759
+msgid "Settings Scroll-H"
+msgstr "تنظیمات Scroll-H"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:227
+msgid "Title animation pulsate"
+msgstr "انیمیشن تکان دادن عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:291
+msgid "Typing"
+msgstr " نوشتاری"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:305
+msgid "Click to reset Properties animations"
+msgstr "بازنشانی تنظیمات انیمیشن ها"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:464
+msgid "Width of title background"
+msgstr "عرض پس زمینه عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:698
+#: news-ticker-benaceur-panel-page.php:702
+msgid "Hide Slide-Up-Down"
+msgstr "مخفی کردن شیوه اسلاید-بالا-پایین"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:710
+#: news-ticker-benaceur-panel-page.php:714
+msgid "Hide FadeIn"
+msgstr "مخفی کردن شیوه FadeIn"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:722
+#: news-ticker-benaceur-panel-page.php:726
+msgid "Hide Typing"
+msgstr "مخفی کردن شیوه نوشتاری"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:734
+#: news-ticker-benaceur-panel-page.php:738
+msgid "Hide Fade"
+msgstr "مخفی کردن شیوه محو شدن"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:746
+#: news-ticker-benaceur-panel-page.php:750
+msgid "Hide Slide"
+msgstr "مخفی کردن شیوه اسلاید"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:758
+#: news-ticker-benaceur-panel-page.php:762
+msgid "Hide Scroll-H"
+msgstr "مخفی کردن شیوه Scroll-H"
+
+# @ news-ticker-benaceur
+#: style-anim/no-scrollntb-scroll_up.php:4
+#: style-anim/no-scrollntb-scroll_up.php:6
+#: style-anim/no-scrollntb-scroll_up.php:10
+#: style-anim/no-scrollntb-scroll_up.php:14 style-anim/no-scrollntb.php:4
+#: style-anim/no-scrollntb.php:6 style-anim/no-scrollntb.php:10
+#: style-anim/no-scrollntb.php:14
+msgid "next"
+msgstr "بعدی"
+
+# @ news-ticker-benaceur
+#: style-anim/no-scrollntb-scroll_up.php:3
+#: style-anim/no-scrollntb-scroll_up.php:7
+#: style-anim/no-scrollntb-scroll_up.php:11
+#: style-anim/no-scrollntb-scroll_up.php:13 style-anim/no-scrollntb.php:3
+#: style-anim/no-scrollntb.php:7 style-anim/no-scrollntb.php:11
+#: style-anim/no-scrollntb.php:13
+msgid "prev"
+msgstr "قبلی"
+
+# @ news-ticker-benaceur
+#: includes/option-anim.php:114 includes/option-anim.php:187
+msgid "Disable autostart"
+msgstr "غیرفعالسازی شروع خودکار"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:638
+msgid "Reset all settings"
+msgstr "بازنشانی تمام تنظیمات"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:349
+msgid "Text color of title (if animation pulsate is disabled)"
+msgstr "رنگ متن عنوان"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:367
+msgid "Border color (Title)"
+msgstr "رنگ حاشیه (عنوان)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:384
+msgid "border (Title)"
+msgstr "حاشیه (عنوان)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:456
+msgid "line height (Title)"
+msgstr "ارتفاع خط (عنوان)"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:649
+#: news-ticker-benaceur-panel-page.php:786
+msgid "My plugins"
+msgstr "افزونه‌های من"
+
+# @ core-control
+#: news-ticker-benaceur.php:230
+msgid "<strong>Core Control:</strong> Sorry, This plugin requires WordPress 3.0+"
+msgstr "<strong>کنترل هسته:</strong> متاسفیم، این افزونه نیازمند وردپرس با نسخه +3 است"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:201
+msgid "The title ltr"
+msgstr "عنوان چپ به راست"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:207
+msgid "The title rtl"
+msgstr "عنوان راست به چپ"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:250
+msgid "Auto"
+msgstr "خودکار"
+
+# @ news-ticker-benaceur
+#: news-ticker-benaceur-panel-page.php:198
+msgid "Choose one title for each site according direction if your multilingual site"
+msgstr "یک عنوان را با توجه به جهت زبان سایت خود انتخاب کنید."

@@ -1,0 +1,79 @@
+/* ticker styles */
+
+.latest_newsarea {
+  margin:15px 0px;
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+.news_sticker {
+  padding: 5px 15px 5px 5px;
+  width: 85%;
+  list-style:none !important;
+}
+
+.news_sticker li a{text-decoration:none;}
+
+.news_sticker li a:hover{text-decoration:underline;}
+
+.latest_newsarea span {
+  display: block;
+  float: left;
+  font-size: 16px;
+  padding: 2px 25px;
+  position: absolute;
+  z-index: 20;
+}
+
+.news_sticker {
+  float: right;
+  padding: 5px 15px 5px 5px;
+  width: 85%;
+}
+
+
+
+
+
+/* liScroll styles */
+
+.tickercontainer { /* the outer div with the black border */
+	width:100%; 
+	height: 30px; 
+	margin: 0; 
+	padding: 0;
+	overflow: hidden;
+	
+}
+.tickercontainer .mask { /* that serves as a mask. so you get a sort of padding both left and right */
+	position: relative;
+	left: 10px;
+	top: 8px;
+	width: 100%;
+	overflow: hidden;
+}
+ul.newsticker { /* that's your list */
+	position: relative;
+	left: 750px;
+	font: bold 10px Verdana;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+ul.newsticker li {
+	float: left; /* important: display inline gives incorrect results when you check for elem's width */
+	margin: 0;
+	padding: 0;
+}
+ul.newsticker a {
+	white-space: nowrap;
+	padding: 0;
+	color: #ff0000;
+	font: bold 10px Verdana;
+	margin: 0 50px 0 0;
+} 
+ul.newsticker span {
+	margin: 0 10px 0 0;
+} 

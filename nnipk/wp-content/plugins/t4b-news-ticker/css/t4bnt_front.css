@@ -1,0 +1,12 @@
+/* T4B News Ticker */
+.ticker-news {background: #F4F4F2;height: 34px;overflow: hidden;position: relative;border: 1px solid #AAAAAA;border-radius: 10px}
+.ticker-news span {background: #333333;height: 34px;float: left;padding: 2px 10px;color: #FAFAFA;font-size: 16px;font-weight: bold}
+.ticker-news ul{float:left}
+.ticker-news ul a{padding:5px;display:inline-block;white-space:nowrap;color:#696969;font-size:14px}
+.ticker-news ul a:hover{color:#0199BC}
+/* liScroll styles */
+.tickercontainer {height: 34px;margin: 0;padding: 0;overflow: hidden}
+.tickercontainer .mask {position: relative;width: 99%;left: 5px;top: 5px;overflow: hidden}
+ul.newsticker {position: relative;list-style-type: none;margin: 0;padding: 0}
+ul.newsticker li {float: left;margin: 0;padding: 0}
+ul.newsticker a {white-space: nowrap;padding: 0;color: #696969;margin: 0 50px 0 0;font-size:12px}

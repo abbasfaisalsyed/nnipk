@@ -1,0 +1,372 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: News Announcement Scroll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Apr 29 2016 10:35:48 GMT+0530 (IST)\n"
+"POT-Revision-Date: Fri Jul 15 2016 13:45:18 GMT+0530 (IST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "News Announcement Scroll"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.storeapps.org/product/news-announcement-scroll"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple vertical scroll news widget for your WordPress website. Easy to use "
+"& no coding knowledge required."
+msgstr ""
+
+#. Author of the plugin
+msgid "StoreApps"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.storeapps.org"
+msgstr ""
+
+#: ../news-announcement-scroll.php:193 ../news-announcement-scroll.php:197 ..
+#: /news-announcement-scroll.php:197 ../news-announcement-scroll.php:202
+msgid "News announcement scroll"
+msgstr ""
+
+#: ../news-announcement-scroll.php:307
+msgid "Documentation"
+msgstr ""
+
+#: ../news-announcement-scroll.php:307
+msgid "Docs"
+msgstr ""
+
+#: ../news-announcement-scroll.php:308
+msgid "View News Announcement Scroll Settings"
+msgstr ""
+
+#: ../news-announcement-scroll.php:308
+msgid "Settings"
+msgstr ""
+
+#: ../pages/content-management-show.php:27 ../pages/content-management-edit.php:23
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../pages/content-management-show.php:42
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/content-management-show.php:53 ../pages/content-management-show.php:124
+msgid "Add New"
+msgstr ""
+
+#: ../pages/content-management-show.php:65 ../pages/content-management-show.php:77
+msgid "News"
+msgstr ""
+
+#: ../pages/content-management-show.php:66 ../pages/content-management-show.php:78
+msgid "Order"
+msgstr ""
+
+#: ../pages/content-management-show.php:67
+msgid "Display"
+msgstr ""
+
+#: ../pages/content-management-show.php:68 ../pages/content-management-show.php:80
+msgid "Link"
+msgstr ""
+
+#: ../pages/content-management-show.php:69 ../pages/content-management-show.php:81
+msgid "Group"
+msgstr ""
+
+#: ../pages/content-management-show.php:70 ../pages/content-management-show.php:
+#: 82 ../pages/content-management-add.php:149 ../pages/content-management-edit.
+#: php:166
+msgid "Publish"
+msgstr ""
+
+#: ../pages/content-management-show.php:71 ../pages/content-management-show.php:83
+msgid "Expiration"
+msgstr ""
+
+#: ../pages/content-management-show.php:79
+msgid "Status"
+msgstr ""
+
+#: ../pages/content-management-show.php:98
+msgid "Edit"
+msgstr ""
+
+#: ../pages/content-management-show.php:100
+msgid "Delete"
+msgstr ""
+
+#: ../pages/content-management-show.php:114
+msgid "No records available."
+msgstr ""
+
+#: ../pages/content-management-show.php:125
+msgid "Widget Settings"
+msgstr ""
+
+#: ../pages/content-management-show.php:126 ../pages/content-management-add.php:
+#: 162 ../pages/content-setting.php:183 ../pages/content-management-edit.php:179
+msgid "Help"
+msgstr ""
+
+#: ../pages/content-management-show.php:129
+msgid "Shortcode Details :"
+msgstr ""
+
+#: ../pages/content-management-show.php:131
+msgid "Shortcode for version 2.0 to 5.0 : [NEWS:TYPE=widget]"
+msgstr ""
+
+#: ../pages/content-management-show.php:132
+msgid "Shortcode for version 6.0 to 8.7.1 : [news-announcement type=\"widget\"]"
+msgstr ""
+
+#: ../pages/content-management-show.php:133
+msgid "Shortcode for version 8.8 onwards: [news-announcement group=\"sample\"]"
+msgstr ""
+
+#: ../pages/content-management-add.php:32 ../pages/content-management-add.php:99 .
+#: ./pages/content-management-edit.php:58 ../pages/content-management-edit.php:116
+msgid "Enter announcement text"
+msgstr ""
+
+#: ../pages/content-management-add.php:38 ../pages/content-management-add.php:103 
+#: ../pages/content-management-edit.php:64 ../pages/content-management-edit.php:120
+msgid "Enter display order"
+msgstr ""
+
+#: ../pages/content-management-add.php:58
+msgid "Details was successfully added."
+msgstr ""
+
+#: ../pages/content-management-add.php:86 ../pages/content-management-edit.php:105
+msgid "Click here"
+msgstr ""
+
+#: ../pages/content-management-add.php:86 ../pages/content-management-edit.php:105
+msgid "to view the details"
+msgstr ""
+
+#: ../pages/content-management-add.php:97
+msgid "Add news details"
+msgstr ""
+
+#: ../pages/content-management-add.php:101 ../pages/content-management-edit.php:118
+msgid "Enter your news and announcement text"
+msgstr ""
+
+#: ../pages/content-management-add.php:105 ../pages/content-management-edit.php:122
+msgid "What order should the news be played in. should it come 1st, 2nd, 3rd, etc."
+msgstr ""
+
+#: ../pages/content-management-add.php:107 ../pages/content-management-edit.php:124
+msgid "Display status"
+msgstr ""
+
+#: ../pages/content-management-add.php:112 ../pages/content-management-edit.php:129
+msgid "Do you want to show this news in front end?"
+msgstr ""
+
+#: ../pages/content-management-add.php:114 ../pages/content-management-edit.php:131
+msgid "Redirect Link"
+msgstr ""
+
+#: ../pages/content-management-add.php:116 ../pages/content-management-edit.php:133
+msgid "Enter the redirect link for the news."
+msgstr ""
+
+#: ../pages/content-management-add.php:118 ../pages/content-management-edit.php:135
+msgid "Select news group"
+msgstr ""
+
+#: ../pages/content-management-add.php:147 ../pages/content-management-edit.php:164
+msgid "This is to group the news. Select your news group."
+msgstr ""
+
+#: ../pages/content-management-add.php:151 ../pages/content-management-edit.php:168
+msgid "Please enter the news publish date in this format YYYY-MM-DD."
+msgstr ""
+
+#: ../pages/content-management-add.php:153 ../pages/content-management-edit.php:170
+msgid "Expiration date"
+msgstr ""
+
+#: ../pages/content-management-add.php:155
+msgid ""
+"Please enter the expiration date in this format YYYY-MM-DD <br /> 9999-12-30 "
+": Is equal to no expire."
+msgstr ""
+
+#: ../pages/content-management-add.php:160
+msgid "Insert Details"
+msgstr ""
+
+#: ../pages/content-management-add.php:161 ../pages/content-setting.php:182 ..
+#: /pages/content-management-edit.php:178
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/content-setting.php:15
+msgid "Widget settings"
+msgstr ""
+
+#: ../pages/content-setting.php:68
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/content-setting.php:76
+msgid "Title"
+msgstr ""
+
+#: ../pages/content-setting.php:78
+msgid "This title is only for widget."
+msgstr ""
+
+#: ../pages/content-setting.php:80 ../pages/content-setting.php:97
+msgid "Text alignment"
+msgstr ""
+
+#: ../pages/content-setting.php:87
+msgid "Horizontal alignment of the news."
+msgstr ""
+
+#: ../pages/content-setting.php:89
+msgid "Width"
+msgstr ""
+
+#: ../pages/content-setting.php:91
+msgid "Enter widget width, only number"
+msgstr ""
+
+#: ../pages/content-setting.php:93
+msgid "Font family"
+msgstr ""
+
+#: ../pages/content-setting.php:95
+msgid "Enter news font family name, Example: verdana, arial, sans-serif"
+msgstr ""
+
+#: ../pages/content-setting.php:103
+msgid "Vertical alignment of the news."
+msgstr ""
+
+#: ../pages/content-setting.php:105
+msgid "Height"
+msgstr ""
+
+#: ../pages/content-setting.php:107
+msgid "Enter widget height, only number"
+msgstr ""
+
+#: ../pages/content-setting.php:109
+msgid "Announcement display order"
+msgstr ""
+
+#: ../pages/content-setting.php:114
+msgid ""
+"Display order: It means display as per order option. Random order: It means "
+"random order."
+msgstr ""
+
+#: ../pages/content-setting.php:118
+msgid "Font size"
+msgstr ""
+
+#: ../pages/content-setting.php:120
+msgid "News font size, Example: 13px."
+msgstr ""
+
+#: ../pages/content-setting.php:122
+msgid "Font color"
+msgstr ""
+
+#: ../pages/content-setting.php:124
+msgid "News font color, Example: #000000."
+msgstr ""
+
+#: ../pages/content-setting.php:126
+msgid "Slide direction"
+msgstr ""
+
+#: ../pages/content-setting.php:131
+msgid "Select your slide direction"
+msgstr ""
+
+#: ../pages/content-setting.php:133
+msgid "Font weight"
+msgstr ""
+
+#: ../pages/content-setting.php:138
+msgid "Select font weight."
+msgstr ""
+
+#: ../pages/content-setting.php:140
+msgid "No announcement text"
+msgstr ""
+
+#: ../pages/content-setting.php:142
+msgid "Text to show if no news/announcement available in the database."
+msgstr ""
+
+#: ../pages/content-setting.php:144
+msgid "Slide timeout"
+msgstr ""
+
+#: ../pages/content-setting.php:146
+msgid "1000 = 1 second."
+msgstr ""
+
+#: ../pages/content-setting.php:148
+msgid "News Group"
+msgstr ""
+
+#: ../pages/content-setting.php:177
+msgid ""
+"Select your news group to display (This option is available in add/edit news "
+"page)."
+msgstr ""
+
+#: ../pages/content-setting.php:181
+msgid "Submit"
+msgstr ""
+
+#: ../pages/content-management-edit.php:90
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../pages/content-management-edit.php:114
+msgid "Update news details"
+msgstr ""
+
+#: ../pages/content-management-edit.php:172
+msgid "Please enter the expiration date in this format YYYY-MM-DD"
+msgstr ""
+
+#: ../pages/content-management-edit.php:177
+msgid "Update Details"
+msgstr ""
